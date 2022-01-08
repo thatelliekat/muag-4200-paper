@@ -1,0 +1,94 @@
+<html>
+<title>Musicality in LIMBO</title>
+<head><center><font size = 6>The Significance of Musicality in the Soundscape of LIMBO</font></center></head>
+<head><center>by Elise Kolderup</center></head>
+<body>
+
+<p>
+    The writings of psychologists, psychoanalysts, and philosophers are rarely geared toward the design of video games. However, many of the ideas presented by writers like Freud, Barthes, Althusser, and Massumi are 
+    applicable to the art of creating games that are enjoyable to play and leave a lasting impact on the player. This paper will attempt to relate some of the concepts of the authors that we have read in this course
+    to video game design; particularly, to designing video games with worlds that feel complete, immersive, and impactful to the player. It will examine concepts such as interpellation and narrative progression and 
+    relate them to LIMBO's design.
+</p>
+
+
+<p>Althusser's concept of interpellation into a culture through seemingly innocuous "hails" can be applied to immersion and video games. While Althusser was writing about cultures and societies, his concept of 
+    interpellation is highly applicable to video game design, specifically to designing worlds that feel complete and that are capable of fully immersing a player. LIMBO in particular has a unique feel and space that we become immersed into while playing, 
+    and this immersion occurs in a manner similar to what Althusser describes as hailing. Althusser states that "all ideology hails or interpellates concrete individuals as concrete subjects."<font color = "green"> (See Althusser, Louis. "Ideology and Ideological State
+    Apparatuses" in <i>Lenin and Philosophy and Other Essays</i>, Monthly Review Press (1971))</font> For our purposes, the "ideology" that Althusser refers to is the game designer's world and their intent for the atmosphere of that world, and the "individuals" which are interpellated are the players of the game.
+    Althusser uses a police officer calling out to a passerby as an example of one of these hails, which are small events that you don't consciously register as meaningful but which slowly conform your ideas to be in 
+    line with an ideology. In a similar vein, LIMBO hails the player into its world through the introduction of unique mechanical and atmospheric elements until the player is immersed in the game.
+</p>
+
+<p>
+    The mechanics of LIMBO's puzzles can be interpreted as hails<sup><font color = "purple">1</font></sup>. The player solves puzzles by analyzing the game's environment and piecing together clues. In the end, the player feels that they have achieved
+    something by solving the puzzle, that the solution is something they have found independently. In reality, the player was carefully led to the solution by a series of hails: the slow introduction of mechanics and
+    the clever design and placement of objects in the game's world. This is similar to Althusser's description of hails; they work best when they are presented to us in a way that makes them almost invisible, and encourages
+    us to accept them.
+</p>
+
+<p>
+    <center>Example 1: Hails in LIMBO's Puzzles</center>
+</p>
+
+    <center><video width="640" height="280" controls>
+    <source src="https://github.com/marshall-bothwell/muag4200-mwb/blob/main/PaperRoughDraftClip.mp4?raw=true" type="video/mp4"></video></center>
+
+
+<p>
+    This clip shows an example of a simple hail in LIMBO's design. At this point in the game, the player has been introduced to breakable branches. The player can see that the branch leaning against the tree will
+    break when stepped on, and that the log will fall. The branch leaning on the log is a "hail" to the player; it leads them to the solution without explicitly giving them the answer. LIMBO builds in complexity
+    and difficulty by layering these hails throughout the game, with each puzzle introducing the player to new mechanics and embedding the player further into the world of the game.
+</p>
+
+<p>
+    Barthes states that good narrative moves between predictive and descriptive elements, like breathing in and out; predictive elements being those that move the narrative forward, and descriptive elements being those that are extraneous
+    and not required for the narrative to progress. The mechanical hails expanded upon earlier in this paper are LIMBO's predictive elements, required to progress through the game, while the atmospheric background sights and sounds
+    are descriptive elements. Playing LIMBO, I felt that the balance between predictive and descriptive was designed excellently. The back-and-forth swing between puzzle solving and moving through the world, 
+    absorbing the sights and sounds was very effective at creating a flow-state of immersion that sucks the player into the game.
+</p>
+
+<p>
+    <center>Example 2: Descriptive Elements in LIMBO</center>
+</p>
+<center><IMG SRC="https://github.com/marshall-bothwell/muag4200-mwb/blob/main/PaperScreenshotEx2.png?raw=true" width = 960 height = 540></center>
+
+
+<p>
+    This image shows the subdued and balanced style of LIMBO's design. Throughout the game, there are objects in the background that the player can see, creating a sense of three-dimensional scale to the world
+    despite LIMBO's two-dimensional movement. The designers at Playdead did an excellent job of balancing foreground and background elements. The background elements are always present, but never overpower the view,
+    only existing to enrich the atmosphere in a way that the player rarely takes conscious notice of. In the image above, there are several layers of background detail: a chimney emitting smoke, a billboard on top 
+    of a building, and even further back, almost invisible, the outlines of very distant buildings. These details would likely be run past by the player, barely noticed, but their presence throughout every scene
+    of the game gives LIMBO's world a sense of being much larger than what the player experiences. 
+</p>
+
+<p>
+    Sound design is of equal importance to visual design when creating a game world that immerses a player, and also falls under the umbrella of descriptive elements in LIMBO. The sound design of LIMBO is very passive;
+    there is not much music, only noises and ambient tones, which serve well to unconsciously draw the player into the world.
+</p>
+
+<p>
+    <center>Example 3: Sound Design in LIMBO</center>
+</p>
+
+<center><audio controls>
+    <source src="https://github.com/marshall-bothwell/muag4200-mwb/blob/main/ElectricNoise.mp3?raw=true" type="audio/mp3"></audio></center>
+
+    <center><IMG SRC="https://github.com/marshall-bothwell/muag4200-mwb/blob/main/ElectricNoiseSpectrogram.png?raw=true"></center>
+
+<p>
+    The above example shows the sounds of electricity in LIMBO: loud, jarring, and powerful. The spectrogram (made in Sonic Visualizer) allows us to see the points of attack in the electrical noise
+    and the drawdown between each spark. It is important to consider that the designers at Playdead did not have to spend an extended amount of time designing these small details of sound and texture
+    that are present throughout LIMBO, but it is clear that they did and the game is more immersive for their efforts, despite these elements not being necessary for the game to be played.
+</p>
+
+<p>
+    <font color = "purple">
+        1: I use the terms "interpellate" and "hail" very loosely throughout this paper. When Althusser uses these terms, they are meant in the context of Marxist theory, class struggle, and oppression. 
+        I very loosely relate the idea that Althusser puts forth (that we are interpellated into the culture and values of our society through "hails" that work best when they are nearly invisible, and that 
+        once interpellated, ideas that may seem to be entirely our own are actually the result of having been hailed/interpellated since birth) to the idea that good video game design requires a similar structure 
+        of hailing to immerse the player in the world of the game and provide the player with the tools to succeed in the game, without the political context that Althusser intended when he defined these terms.
+    </font>
+</p>
+</body>
+</html>
